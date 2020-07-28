@@ -1,4 +1,4 @@
-## Hi ! My name is Gaillard, Thierry Gaillard 🧭
+## Hi ! My name is Gaillard, Thierry Gaillard 🔫 🧭
 ________________________________________________________________________________________________________________________________________________________________________________
 <!--
 **Gathea/Gathea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
