@@ -3,7 +3,7 @@ ________________________________________________________________________________
 <!--
 **Gathea/Gathea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img src="https://raw.githubusercontent.com/Gathea/tg-header-github.png" alt="Bannière Gaillard Thierry - Digital Marketing Manager, Website Designer
+<img src="https://github.com/Gathea/tg-header-github.png" alt="Bannière Gaillard Thierry - Digital Marketing Manager, Website Designer
 & Web Project Manager.">
 I am currently working in the world of web and digital marketing. My goal is to help companies gain a sustainable competitive advantage by supporting them in implementing their digital strategy, by being their web project manager and by developing their web marketing.
 
