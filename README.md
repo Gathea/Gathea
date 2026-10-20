@@ -1,4 +1,4 @@
-## Hi !I'm Thierry 🔫 🧭 🎬
+## Hi !I'm Gathea 🔫 🧭 🎬
 ________________________________________________________________________________________________________________________________________________________________________________
 <!--
 **Gathea/Gathea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -11,4 +11,4 @@ I learned to code in html, css and javascript by following free programs on the 
 
 I developed the website of La France à ma mesure as well as [Stradige](https://www.stradige.fr) agency, specializing in digital strategy. You can find me on my [personal website](https://www.gaillard-thierry.com).
 
-When it comes to computer literacy, I consider myself to be someone with a lot to learn from others, especially leaders who are passionate about computer coding. That's why I'm on Github.
+When it comes to computer literacy, I consider myself to be someone with a lot to learn from others, especially leaders who are passionate about computer coding.
