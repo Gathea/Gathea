@@ -9,6 +9,6 @@ I am currently working in the world of web and <strong>digital marketing</strong
 
 I learned to code in html, css and javascript by following free programs on the net. I was also selected in 2018 to take the <strong>Google Developer Challenge Scholarship</strong> training to learn programming in Java and selected in 2019 to take the <strong>Bertelsmann Technology Scholarship Program Applications</strong> which was a data analysis program.
 
-I developed the website of [La France à ma mesure](https://www.lafranceamamesure.com) as well as [Stradige](https://www.stradige.fr) agency, specializing in digital strategy. You can find me on my [personal website](https://www.gaillard-thierry.fr).
+I developed the website of La France à ma mesure as well as [Stradige](https://www.stradige.fr) agency, specializing in digital strategy. You can find me on my [personal website](https://www.gaillard-thierry.com).
 
 When it comes to computer literacy, I consider myself to be someone with a lot to learn from others, especially leaders who are passionate about computer coding. That's why I'm on Github.
